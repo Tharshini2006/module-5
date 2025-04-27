@@ -362,7 +362,7 @@ Average marks: 74.80
 Student 2:
 Total marks: 383
 Average marks: 76.60
-
+```
 
  
 
